@@ -17,7 +17,7 @@
           }, 
           "version": "2.3.0", 
           "architecture": "esp8266", 
-          "archiveFileName": "dfesp8266-2.3.0.zip", 
+          "archiveFileName": "esp8266-2.3.0.zip", 
           "boards": [
             {
               "name": "DFRobot ESP8266 Iot"
